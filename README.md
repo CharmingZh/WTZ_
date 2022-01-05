@@ -1,5 +1,6 @@
 # WTZ_
-三个男人三台机，一行代码写一天。
+
+> Practice makes perfect.
 
 <details>
  <summary> Member List </summary>
@@ -14,7 +15,8 @@
  <summary> Project List </summary>
 
 - [x] Hello World Conference
-- [ ] Tiny STL
+- [ ] Tiny STL【Later】
+- [ ] Net-based Storage System【Doing】
 
 </details>
 

@@ -1,5 +1,3 @@
-[toc]
-
 > <center>Practice makes perfect.</center>
 >
 > <right>---- From Nobody</right>

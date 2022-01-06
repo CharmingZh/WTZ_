@@ -18,12 +18,7 @@
 
 <details>
  <summary> Road Map </summary>
-- [x] Hello World Conference
-- [ ] Tiny STL【Later】
-- [ ] Net-based Storage System【Doing】
-    succeed?
-    succeed.
-    succeed!
+  
 1. 【2022.01.05】First Online Conference;
 2. ...
 
@@ -39,7 +34,7 @@ We, three students, love computer programming tech.
 1. [Richard](https://github.com/Richswmz)
 2. [CharmingZh](https://github.com/CharmingZh)
 3. [SeekDay](https://github.com/seekday)
-
+  
 </details>
 
 ### Contribute Procedures
